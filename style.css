@@ -1,5 +1,6 @@
 p {
-  column-count: 4;
-  column-gap: 30px;
-  column-rule: 4px solid blue;
+  column-count: 2;
+  column-gap: 50px;
+  column-rule: 6px dashed red;
+  font-family: monospace;
 }
